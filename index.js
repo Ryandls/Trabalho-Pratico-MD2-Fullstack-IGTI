@@ -48,7 +48,7 @@ function getFiveCities() {
   return arrayOfString;
 }
 
-//console.log(getFiveCities());
+console.log(getFiveCities());
 
 //Get biggest name of each state
 
@@ -99,4 +99,4 @@ function getNameSmallCities() {
   return arrayName;
 }
 
-console.log(getNameSmallCities());
+//console.log(getNameSmallCities());
